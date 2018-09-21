@@ -1,8 +1,8 @@
 {
-    "name": "@hbgj/lib",
-    "version": "1.0.1",
+    "name": "@yujindong/lib",
+    "version": "1.0.0",
     "title": "hbgj-tools",
-    "description": "前端功能组件库",
+    "description": "方便打包使用",
     "keywords": [
         "tools"
     ],
@@ -11,10 +11,11 @@
         "dist"
     ],
     "scripts": {
+        "pub": "npm publish --access=public"
     },
     "repository": {
         "type": "git",
-        "url": "git+http://43.241.216.246/front-end/hbgj-tools.git"
+        "url": "git+http://github.com:yujindong/lib.git"
     },
     "devDependencies": {
        
