@@ -1,0 +1,25 @@
+{
+    "name": "@hbgj/lib",
+    "version": "1.0.1",
+    "title": "hbgj-tools",
+    "description": "前端功能组件库",
+    "keywords": [
+        "tools"
+    ],
+    "main": "dist/index.js",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+http://43.241.216.246/front-end/hbgj-tools.git"
+    },
+    "devDependencies": {
+       
+    },
+    "dependencies": {
+      
+    }
+}
